@@ -7,7 +7,3 @@ php:
 
   # aliased to a recent 7.1.x version
   - 7.1
-
-# configure notifications (email, IRC, campfire etc)
-notifications:
-  irc: "irc.freenode.org#yourfavouriteroomfortravis"
