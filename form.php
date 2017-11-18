@@ -5,7 +5,7 @@
 	<title>สมัครสมาชิก</title>
 </head>
 <body>
-	<?
+	<?php
 		$ch = $_GET['a'];
 		if($ch==1){echo "<h4><font color='red'>*** กรุณากรอกข้อมูลให้ครบ *** </font></h4>" ;}
 	?>
